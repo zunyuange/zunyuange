@@ -1,0 +1,8 @@
+{
+"QQ群号":123456,"QQ客服":"123456","软件名称":"网址导航",
+"data":
+[
+{"名称":"百度","网址":"https://m.baidu.com/","图标":"https://ms.bdstatic.com/se/static/wiseindex/img/favicon64_587c374.ico"},
+{"名称":"葫芦侠","网址":"http://wap.huluxia.com/","图标":"http://wap.huluxia.com/img/favicon.ico"}
+]
+}
